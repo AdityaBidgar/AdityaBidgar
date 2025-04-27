@@ -1,16 +1,20 @@
-<h1>Hello, I'm Aditya</h1>
-<p>I'm a builder, learner, and explorer. Passionate about crafting smart solutions that blend tech, creativity, and real-world impact. Third year Engineering(IT) student form Pune, India.<br>
+<h1>Hello World! I'm Aditya, 3rd year Engineering(IT) student at Pune University, India</h1>
+<p>I'm a builder, learner, and explorer. Passionate about crafting smart solutions that blend tech, creativity, and real-world impact.<br>
  
  Currently exploring: <br>
   - AI/ML Engineering & Cloud DevOps <br>
   - Open source Contribution <br>
   - Development and Automation <br>
   - Startup Ideas <br>
- Goal: Design systems that are efficient, scalable, and actually useful whether it's in cloud infrastructure, AI workflows, or development. <br>
- Side Interests:<br>
+  
+Goal: Design systems that are efficient, scalable, and actually useful whether it's in cloud infrastructure, AI workflows, or development. <br>
+
+Side Interests:<br>
   - Football enthusiast always chasing the next game<br> 
   - Always looking for ways to merge tech and passion projects<br>
- Let's connect if you love building ambitious projects or brainstorming bold ideas!</p>
+  
+Let's connect if you love building ambitious projects or brainstorming bold ideas!</p>
+
 <h2>Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
