@@ -1,13 +1,13 @@
 <h1>Hi 👋, I'm Aditya</h1>
 <p>I'm a builder, learner, and explorer. Passionate about crafting smart solutions that blend tech, creativity, and real-world impact.<br>
-🚀 Currently exploring: 
-  - AI/ML Engineering & Cloud DevOps 
+🚀 Currently exploring: <br>
+  - AI/ML Engineering & Cloud DevOps <br>
   - Development and Automation <br>
   - Startup Ideas <br>
 🎯 Mission: Design systems that are efficient, scalable, and actually useful whether it's in cloud infrastructure, AI workflows, or development. <br>
-⚡ Side Interests:
-  - Football ⚽ enthusiast always chasing the next game - 
-  Always looking for ways to merge tech and passion projects  
+⚡ Side Interests:<br>
+  - Football ⚽ enthusiast always chasing the next game<br> 
+  - Always looking for ways to merge tech and passion projects<br>
 🔗 Let's connect if you love building ambitious projects or brainstorming bold ideas!</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
