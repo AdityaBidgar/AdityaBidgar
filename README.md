@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left">Goal: Design systems that are efficient, scalable, and actually useful whether it's in cloud infrastructure, AI workflows, or development.</h5>
+<h4 align="left">Goal: Design systems that are efficient, scalable, and actually useful whether it's in cloud infrastructure, AI workflows, or development.</h4>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h5 align="left">Let's connect if you love building ambitious projects or brainstorming bold ideas!</h5>
+<h4 align="left">Let's connect if you love building ambitious projects or brainstorming bold ideas!</h4>
 
 ###
 
