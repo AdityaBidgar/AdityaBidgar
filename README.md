@@ -1,7 +1,10 @@
 <h1>Hi 👋, I'm Aditya</h1>
-<p>I'm a builder, learner, and explorer. Passionate about crafting smart solutions that blend tech, creativity, and real-world impact.
-🚀 Currently exploring: - AI/ML Engineering & Cloud DevOps - Development and Automation - Startup Ideas 
-🎯 Mission: Design systems that are efficient, scalable, and actually useful whether it's in cloud infrastructure, AI workflows, or development. 
+<p>I'm a builder, learner, and explorer. Passionate about crafting smart solutions that blend tech, creativity, and real-world impact.<br>
+🚀 Currently exploring: 
+  - AI/ML Engineering & Cloud DevOps 
+  - Development and Automation <br>
+  - Startup Ideas <br>
+🎯 Mission: Design systems that are efficient, scalable, and actually useful whether it's in cloud infrastructure, AI workflows, or development. <br>
 ⚡ Side Interests:
   - Football ⚽ enthusiast always chasing the next game - 
   Always looking for ways to merge tech and passion projects  
