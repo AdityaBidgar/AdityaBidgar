@@ -2,9 +2,10 @@
 <p>I'm a builder, learner, and explorer. Passionate about crafting smart solutions that blend tech, creativity, and real-world impact.<br>
  Currently exploring: <br>
   - AI/ML Engineering & Cloud DevOps <br>
+  - Open source Contribution <br>
   - Development and Automation <br>
   - Startup Ideas <br>
- Mission: Design systems that are efficient, scalable, and actually useful whether it's in cloud infrastructure, AI workflows, or development. <br>
+ Goal: Design systems that are efficient, scalable, and actually useful whether it's in cloud infrastructure, AI workflows, or development. <br>
  Side Interests:<br>
   - Football enthusiast always chasing the next game<br> 
   - Always looking for ways to merge tech and passion projects<br>
