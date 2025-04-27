@@ -114,7 +114,7 @@
 
 ###
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityabidgar/adityabidgar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityabidgar/adityabidgar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/adityabidgar/adityabidgar/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityabidgar/adityabidgar/output/github-pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityabidgar/adityabidgar/output/github-pacman.svg" />
+  <img alt="github-pacman" src="https://raw.githubusercontent.com/adityabidgar/adityabidgar/output/github-pacman.svg" />
 </picture>
