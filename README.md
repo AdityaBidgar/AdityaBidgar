@@ -1,5 +1,6 @@
 <h1>Hello, I'm Aditya</h1>
-<p>I'm a builder, learner, and explorer. Passionate about crafting smart solutions that blend tech, creativity, and real-world impact.<br>
+<p>I'm a builder, learner, and explorer. Passionate about crafting smart solutions that blend tech, creativity, and real-world impact. Third year Engineering(IT) student form Pune, India.<br>
+ 
  Currently exploring: <br>
   - AI/ML Engineering & Cloud DevOps <br>
   - Open source Contribution <br>
